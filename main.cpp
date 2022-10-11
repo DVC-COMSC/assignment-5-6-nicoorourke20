@@ -4,13 +4,8 @@ using namespace std;
 
 int main()
 {
-	int N; // the number of students;
-	int M; // the number of scores;
-
-	cout << "Enter the number of students: " ;
-	cin >> N;
-	cout << "Enter the number of scores for each student: " ;
-	cin >> M;
+	int N=3;
+	int M=3;
 	
 	for(int i=0; i<N; i++)
 	{
