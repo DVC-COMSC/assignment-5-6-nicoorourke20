@@ -11,11 +11,8 @@ int main()
 	{
 		for (int j=0; j<M; j++)
 		{
+			// Complete this code.
 			
 		}
 	}
-
-	
-	// Complete this code.
-	
 }
